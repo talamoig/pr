@@ -1,0 +1,14 @@
+[general]
+convert=/usr/local/bin/convert
+
+[myblog.tumblr.com]
+platform=tumblr
+blogname=myblog.tumblr.com
+consumer_key=
+consumer_secret=
+state=published
+token=
+token_secret=
+out_type=jpg
+resize_to=800
+has_tags=True
